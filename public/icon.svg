@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#047857" />
+  <!-- Optical viewfinder corners -->
+  <path d="M112 184V136C112 122.745 122.745 112 136 112H184" stroke="#ECFDF5" stroke-width="24" stroke-linecap="round" />
+  <path d="M328 112H376C389.255 112 400 122.745 400 136V184" stroke="#ECFDF5" stroke-width="24" stroke-linecap="round" />
+  <path d="M400 328V376C400 389.255 389.255 400 376 400H328" stroke="#ECFDF5" stroke-width="24" stroke-linecap="round" />
+  <path d="M184 400H136C122.745 400 112 389.255 112 376V328" stroke="#ECFDF5" stroke-width="24" stroke-linecap="round" />
+  <!-- Produce leaf emblem -->
+  <path d="M174 320C174 226 238 176 340 176C340 278 290 342 196 342C186 342 174 334 174 320Z" fill="#ECFDF5" />
+  <path d="M186 328L310 204" stroke="#047857" stroke-width="18" stroke-linecap="round" />
+  <!-- Optical scan line -->
+  <line x1="128" y1="256" x2="384" y2="256" stroke="#6EE7B7" stroke-width="14" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "FreshScan AI",
+  "description": "Camera-based fruit and vegetable quality inspection platform with AI vision grading, defect localization, thermal and gas spoilage fusion, batch analytics, and full Java Spring Boot 3.x reference architecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
